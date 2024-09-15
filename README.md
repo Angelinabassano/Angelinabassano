@@ -66,5 +66,12 @@ This drove me to join Factoria F5’s bootcamp, where the constant and immersive
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Angelinabassano&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Angelinabassano&icon=0&color=0" alt="Contador de visitas" />
+  </a>
+  <a href="https://www.linkedin.com/in/angelina-bassano/">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
