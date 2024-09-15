@@ -1,4 +1,4 @@
-<img src="./PortadaCoder.svg" alt="Portada" width="100%">
+<img src="./Portada.svg" alt="Portada" width="100%">
 
 My adventure in web development began with a passion for graphic design, a hobby I greatly enjoy. My design skills help me every day to create stunning layouts for websites.
 
